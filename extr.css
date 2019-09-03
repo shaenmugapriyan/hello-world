@@ -1,0 +1,27 @@
+#grad1{
+		background: linear-gradient(white,skyblue); }
+	#grad2{
+		height:650px;
+		background: linear-gradient(orange,white,green);
+		background-repeat: no-repeat;
+		background-size: cover;}
+	header	{
+		color:white;
+		text-shadow: 2px 2px skyblue;
+		padding-top: 45px;
+		font-size: 30px;}
+	div{		
+		margin-right: 500px;
+		margin-left: 500px;
+		margin-top:50px;
+		-webkit-transition:width 2s;
+		transition:2s;}
+div#div1{
+  	
+  transform: rotate(-10deg);
+   }
+ h1
+ {
+ 	color:navy;
+ 	text-shadow: 2px 2px skyblue;
+ }
